@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  margin: 0 40px;
+  flex-direction: column;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 50px;
+}
+.description {
+    width: 60%;
+    font-size: 1.3rem;
+}
+.background {
+    border: 1px solid #000;
+    height: 500px;
+    width: 300px;
+    background-color: brown;
+}
+.txt-footer {
+    font-weight: 700;
+}
+span {
+    color: brown;
+}
