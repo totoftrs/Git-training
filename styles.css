@@ -8,6 +8,14 @@ body {
     justify-content: center;
     margin: 50px 0;
 }
+.content_ {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+.content_ .description {
+    text-align: right;
+}
 h2 {
   font-size: 30px;
   text-align: center;
